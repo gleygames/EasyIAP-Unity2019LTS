@@ -1,0 +1,11 @@
+.vs/
+Assets/GleyPlugins/EasyIAP/
+Assets/GleyPlugins/EasyIAP.meta
+Builds/
+Key/
+Library/
+Logs/
+obj/
+Temp/
+*.csproj
+*.sln
