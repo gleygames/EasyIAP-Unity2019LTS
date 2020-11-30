@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GleyPlugins/EasyIAP/Example/TestIAP.unity
     guid: a8d4152eb7b5c774aac7b8804fa83573
+  - enabled: 1
+    path: Assets/TestScenes/MainScene.unity
+    guid: 1414a1f8aedb1474b845ced631541862
+  - enabled: 1
+    path: Assets/TestScenes/SecondScene.unity
+    guid: 72718c31bc9092b40accb594475bf6b1
   m_configObjects: {}
